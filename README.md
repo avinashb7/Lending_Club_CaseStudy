@@ -36,9 +36,6 @@
 
 
 
-## Contact
-Created by [@KaviyaSubramanian706] - feel free to contact me!
-
 
 <!-- Optional -->
 <!-- ## License -->
